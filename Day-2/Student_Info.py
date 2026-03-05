@@ -1,0 +1,27 @@
+Student_Name ='Gnana Sambasivarao Thota'
+Student_ID ='CGH2939'
+Batch_No='PFS-HYD-050'
+Email_ID='gnanasambasivaraothota678@gmail.com'
+Date_of_Birth='2004-08-12'
+Age =21
+Gender='Male'
+Blood_Group='B+'
+City='Guntur'
+State='Andhra Pradesh'
+Student_Phone_Number=+919030825257
+Parent_Phone_Number=+917013378339
+Github_Link='https://github.com/Gnanasambasivarao'
+College_Name='Chalapathi Institute of Engineering and Technology'
+USN_Number='Y22CIT080'
+Qualification='UG (Bachelor Degrees)'
+Department='B.Tech - Information Technology (IT)'
+Pass_out_Year='2026'
+Graduation_Percentage='80%'
+Arrears='No'
+No_of_Arrears='0'
+Pass_Year_10th='2020'
+Percentage_10th='65%'
+Pass_Year_12th='2022'
+Percentage_12th='72%'
+Skills=['Python', 'Flask', 'HTML', 'CSS', 'Bootstrap', 'Javascript', 'MySQL', 'React']
+print(f"Student Name: {Student_Name}\nStudent ID: {Student_ID}\nBatch No: {Batch_No}\nEmail ID: {Email_ID}\nDate of Birth: {Date_of_Birth}\nAge: {Age}\nGender: {Gender}\nBlood Group: {Blood_Group}\nCity: {City}\nState: {State}\nStudent Phone Number: {Student_Phone_Number}\nParent Phone Number: {Parent_Phone_Number}\nGithub Link: {Github_Link}\nCollege Name: {College_Name}\nUSN Number: {USN_Number}\nQualification: {Qualification}\nDepartment: {Department}\nPass out Year: {Pass_out_Year}\nGraduation Percentage: {Graduation_Percentage}\nArrears: {Arrears}\nNo of Arrears: {No_of_Arrears}\nPass Year 10th: {Pass_Year_10th}\nPercentage 10th: {Percentage_10th}\nPass Year 12th: {Pass_Year_12th}\nPercentage 12th: {Percentage_12th}\nSkills: {', '.join(Skills)}")
